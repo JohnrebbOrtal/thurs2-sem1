@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# thurs2
+#
+
+projectname: thurs2
+vendorid: com.thurs.sample
+mainmodule: com.thurs.sample.thurs2
